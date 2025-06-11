@@ -2,7 +2,7 @@
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
+  text-align: left;
 }
 
 .logo {
@@ -36,9 +36,13 @@
 }
 .blog-topic {
   font-weight: bold;
-  font-size: 1.2em;
-  margin: 2em 0 1em 0;
-  padding: 0.3em 0;
-  border-bottom: 1px solid #eee;
-  background: #f8f8f8;
+  font-size: 1.25em;
+  margin: 2.5em 0 1.5em 0;
+  padding: 0.7em 1em;
+  border-left: 4px solid #4f8cff;
+  border-bottom: none;
+  background: #f0f6ff;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px 0 #0001;
+  text-align: left;
 }

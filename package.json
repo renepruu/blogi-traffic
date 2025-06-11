@@ -5,7 +5,7 @@
   "type": "module",
 
 
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://renepruu.github.io/blogi-traffic/",
 
   "scripts": {
     "predeploy": "npm run build",
