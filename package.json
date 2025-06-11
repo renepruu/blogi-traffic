@@ -1,11 +1,11 @@
 {
-  "name": "blogi-traffic",
+  "name": "blogi-liiklusmang",
   "private": true,
   "version": "0.0.0",
   "type": "module",
 
 
-  "homepage": "https://renepruu.github.io/blogi-traffic/",
+  "homepage": "https://renepruu.github.io/blogi-liiklusmang/",
 
   "scripts": {
     "predeploy": "npm run build",
